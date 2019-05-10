@@ -1,4 +1,4 @@
 # DCGAN_on_CelebA
-DCGAN on CelebA 
+DCGAN+LSGAN  on CelebA 
 ## Results
-![Results](results/celeba.jpg)
+![Results](Results/celeba.jpg)
